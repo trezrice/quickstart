@@ -1,3 +1,4 @@
+publisDir = "docs"
 baseURL = 'https://trezrice.io/quickstart'
 languageCode = 'en-us'
 title = 'Thoughts, Musings, Reviews'
