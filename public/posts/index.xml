@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Thoughts, Musings, Reviews</title>
+    <link>http://localhost:1313/quickstart/posts/</link>
+    <description>Recent content in Posts on Thoughts, Musings, Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2024 12:46:15 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/quickstart/posts/myfirstpost/</link>
+      <pubDate>Mon, 26 Feb 2024 12:46:15 -0800</pubDate>
+      <guid>http://localhost:1313/quickstart/posts/myfirstpost/</guid>
+      <description>A Late Night Wasp Hello, I hope this works and welcome. I was stung by the idea and desire the other night to attempt to create a place where I could post my musings, thoughts, and drivel in one place as opposed to storing them over a cellphone, google drive, and countless notebooks. This is that attempt. I am already in over my head but feeling energized. I don&amp;rsquo;t think I had ever even used the command prompt before today.</description>
+    </item>
+  </channel>
+</rss>
